@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "kontrolltoo", "kontrolltoo\kontrolltoo.pyproj", "{CE6DAC02-B569-4867-B9F3-FEACDF47016B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE6DAC02-B569-4867-B9F3-FEACDF47016B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE6DAC02-B569-4867-B9F3-FEACDF47016B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {218DB4E2-EB67-42D3-BDB1-744053425FA8}
+	EndGlobalSection
+EndGlobal
