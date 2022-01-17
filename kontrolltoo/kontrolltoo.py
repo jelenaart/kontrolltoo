@@ -1,4 +1,4 @@
-#var #5
+#var 5
 from random import *
 #1
 print("vvedite skolko vi hotite postroit domov = ")
